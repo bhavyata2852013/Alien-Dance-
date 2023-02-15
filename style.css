@@ -1,0 +1,36 @@
+body{
+    background-color: #e6005c;
+    font-family:'Zeyada', cursive; 
+    font-weight: bold;
+}
+
+.header_div{
+    background-color: #ffffb3;
+   height: 100px;
+}
+
+.header_div h1{
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+
+.header_div p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+button{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #ffffb3;
+    line-height: 2;
+    color: blueviolet;
+}
